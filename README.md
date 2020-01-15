@@ -1,2 +1,2 @@
 # Grepthor
-Internship
+Contains the hands-on I learned here
